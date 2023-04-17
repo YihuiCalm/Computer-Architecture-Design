@@ -1,0 +1,225 @@
+Trace:cc1.din
+Cache size:4KB
+Associativity: 1
+Miss rate:0.1046	
+
+Trace:cc1.din
+Cache size:4KB
+Associativity: 2
+Miss rate:0.0873	
+
+Trace:cc1.din
+Cache size:4KB
+Associativity: 4
+Miss rate:0.0830	
+
+Trace:cc1.din
+Cache size:4KB
+Associativity: 8
+Miss rate:0.0815	
+
+Trace:cc1.din
+Cache size:4KB
+Associativity: 125
+Miss rate:0.0831	
+
+Trace:cc1.din
+Cache size:8KB
+Associativity: 1
+Miss rate:0.0759	
+
+Trace:cc1.din
+Cache size:8KB
+Associativity: 2
+Miss rate:0.0600	
+
+Trace:cc1.din
+Cache size:8KB
+Associativity: 4
+Miss rate:0.0534	
+
+Trace:cc1.din
+Cache size:8KB
+Associativity: 8
+Miss rate:0.0518	
+
+Trace:cc1.din
+Cache size:8KB
+Associativity: 250
+Miss rate:0.0522	
+
+Trace:cc1.din
+Cache size:16KB
+Associativity: 1
+Miss rate:0.0478	
+
+Trace:cc1.din
+Cache size:16KB
+Associativity: 2
+Miss rate:0.0362	
+
+Trace:cc1.din
+Cache size:16KB
+Associativity: 4
+Miss rate:0.0296	
+
+Trace:cc1.din
+Cache size:16KB
+Associativity: 8
+Miss rate:0.0274	
+
+Trace:cc1.din
+Cache size:16KB
+Associativity: 500
+Miss rate:0.0262	
+
+Trace:spice.din
+Cache size:4KB
+Associativity: 1
+Miss rate:0.0765	
+
+Trace:spice.din
+Cache size:4KB
+Associativity: 2
+Miss rate:0.0482	
+
+Trace:spice.din
+Cache size:4KB
+Associativity: 4
+Miss rate:0.0358	
+
+Trace:spice.din
+Cache size:4KB
+Associativity: 8
+Miss rate:0.0283	
+
+Trace:spice.din
+Cache size:4KB
+Associativity: 125
+Miss rate:0.0258	
+
+Trace:spice.din
+Cache size:8KB
+Associativity: 1
+Miss rate:0.0462	
+
+Trace:spice.din
+Cache size:8KB
+Associativity: 2
+Miss rate:0.0276	
+
+Trace:spice.din
+Cache size:8KB
+Associativity: 4
+Miss rate:0.0190	
+
+Trace:spice.din
+Cache size:8KB
+Associativity: 8
+Miss rate:0.0165	
+
+Trace:spice.din
+Cache size:8KB
+Associativity: 250
+Miss rate:0.0172	
+
+Trace:spice.din
+Cache size:16KB
+Associativity: 1
+Miss rate:0.0240	
+
+Trace:spice.din
+Cache size:16KB
+Associativity: 2
+Miss rate:0.0106	
+
+Trace:spice.din
+Cache size:16KB
+Associativity: 4
+Miss rate:0.0066	
+
+Trace:spice.din
+Cache size:16KB
+Associativity: 8
+Miss rate:0.0053	
+
+Trace:spice.din
+Cache size:16KB
+Associativity: 500
+Miss rate:0.0036	
+
+Trace:tex.din
+Cache size:4KB
+Associativity: 1
+Miss rate:0.0272	
+
+Trace:tex.din
+Cache size:4KB
+Associativity: 2
+Miss rate:0.0030	
+
+Trace:tex.din
+Cache size:4KB
+Associativity: 4
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:4KB
+Associativity: 8
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:4KB
+Associativity: 125
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:8KB
+Associativity: 1
+Miss rate:0.0058	
+
+Trace:tex.din
+Cache size:8KB
+Associativity: 2
+Miss rate:0.0027	
+
+Trace:tex.din
+Cache size:8KB
+Associativity: 4
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:8KB
+Associativity: 8
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:8KB
+Associativity: 250
+Miss rate:0.0023	
+
+Trace:tex.din
+Cache size:16KB
+Associativity: 1
+Miss rate:0.0039	
+
+Trace:tex.din
+Cache size:16KB
+Associativity: 2
+Miss rate:0.0018	
+
+Trace:tex.din
+Cache size:16KB
+Associativity: 4
+Miss rate:0.0017	
+
+Trace:tex.din
+Cache size:16KB
+Associativity: 8
+Miss rate:0.0019	
+
+Trace:tex.din
+Cache size:16KB
+Associativity: 500
+Miss rate:0.0023	
+

@@ -1,0 +1,20 @@
+Optimazation: 0
+Setup: Default
+Sim Seconds:0.031262
+Sim Ticks:31262120000
+
+Optimazation: 0
+Setup: Optimum
+Sim Seconds:0.001188
+Sim Ticks:1187606000
+
+Optimazation: 3
+Setup: Default
+Sim Seconds:0.021773
+Sim Ticks:21773404000
+
+Optimazation: 3
+Setup: Optimum
+Sim Seconds:0.001004
+Sim Ticks:1004229000
+

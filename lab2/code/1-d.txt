@@ -1,0 +1,72 @@
+Cache type:u
+Trace:cc1.din
+Cache size:32KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0150
+
+Cache type:i
+Trace:cc1.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0181
+
+Cache type:d
+Trace:cc1.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0137
+
+Cache type:u
+Trace:spice.din
+Cache size:32KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0033
+
+Cache type:i
+Trace:spice.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0030
+
+Cache type:d
+Trace:spice.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0040
+
+Cache type:u
+Trace:tex.din
+Cache size:32KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0015
+
+Cache type:i
+Trace:tex.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0000
+
+Cache type:d
+Trace:tex.din
+Cache size:16KB
+Block size:32
+Associativity: 4
+Replacement policy:l
+Miss rate:0.0053
+

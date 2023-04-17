@@ -1,0 +1,48 @@
+CPU Type:AtomicSimpleCPU
+Clock Rate:2GHz
+Mem Type:DDR3_1600_8x8
+Sim Seconds:0.001212
+Sim Ticks:1212067500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:2GHz
+Mem Type:DDR3_2133_8x8
+Sim Seconds:0.001212
+Sim Ticks:1212067500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:2GHz
+Mem Type:LPDDR2_S4_1066_1x32
+Sim Seconds:0.001212
+Sim Ticks:1212067500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:2GHz
+Mem Type:HBM_1000_4H_1x64
+Sim Seconds:0.001212
+Sim Ticks:1212067500
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2GHz
+Mem Type:DDR3_1600_8x8
+Sim Seconds:0.002588
+Sim Ticks:2588386000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2GHz
+Mem Type:DDR3_2133_8x8
+Sim Seconds:0.002561
+Sim Ticks:2561352000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2GHz
+Mem Type:LPDDR2_S4_1066_1x32
+Sim Seconds:0.002769
+Sim Ticks:2768877000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2GHz
+Mem Type:HBM_1000_4H_1x64
+Sim Seconds:0.002738
+Sim Ticks:2738084000
+

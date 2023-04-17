@@ -1,0 +1,21 @@
+Trace:cc1.din
+Optimal Cache type:i
+Optimal Cache size:8'KB'
+Optimal Block size:128
+Optimal Associativity:64
+Optimal Replacement policy:l
+Optimal Miss rate:0.0199
+Trace:spice.din
+Optimal Cache type:d
+Optimal Cache size:8'KB'
+Optimal Block size:128
+Optimal Associativity:64
+Optimal Replacement policy:l
+Optimal Miss rate:0.0034
+Trace:tex.din
+Optimal Cache type:i
+Optimal Cache size:1'KB'
+Optimal Block size:32
+Optimal Associativity:8
+Optimal Replacement policy:l
+Optimal Miss rate:0.0000

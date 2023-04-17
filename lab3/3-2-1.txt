@@ -1,0 +1,105 @@
+CPU Type:AtomicSimpleCPU
+Clock Rate:1GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:1.5GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:2GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:2.5GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:3GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:3.5GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:AtomicSimpleCPU
+Clock Rate:4GHz
+Sim Seconds:0.001204
+Sim Ticks:1204012500
+
+CPU Type:TimingSimpleCPU
+Clock Rate:1GHz
+Sim Seconds:0.002617
+Sim Ticks:2616879000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:1.5GHz
+Sim Seconds:0.002587
+Sim Ticks:2587361500
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2GHz
+Sim Seconds:0.002567
+Sim Ticks:2567331000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:2.5GHz
+Sim Seconds:0.002552
+Sim Ticks:2552423000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:3GHz
+Sim Seconds:0.002553
+Sim Ticks:2553461000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:3.5GHz
+Sim Seconds:0.002544
+Sim Ticks:2544207000
+
+CPU Type:TimingSimpleCPU
+Clock Rate:4GHz
+Sim Seconds:0.002541
+Sim Ticks:2540777000
+
+CPU Type:DerivO3CPU
+Clock Rate:1GHz
+Sim Seconds:0.000845
+Sim Ticks:844823000
+
+CPU Type:DerivO3CPU
+Clock Rate:1.5GHz
+Sim Seconds:0.000822
+Sim Ticks:821990500
+
+CPU Type:DerivO3CPU
+Clock Rate:2GHz
+Sim Seconds:0.000804
+Sim Ticks:804396500
+
+CPU Type:DerivO3CPU
+Clock Rate:2.5GHz
+Sim Seconds:0.000799
+Sim Ticks:799411500
+
+CPU Type:DerivO3CPU
+Clock Rate:3GHz
+Sim Seconds:0.000793
+Sim Ticks:793307500
+
+CPU Type:DerivO3CPU
+Clock Rate:3.5GHz
+Sim Seconds:0.000794
+Sim Ticks:794051000
+
+CPU Type:DerivO3CPU
+Clock Rate:4GHz
+Sim Seconds:0.000777
+Sim Ticks:777298500
+

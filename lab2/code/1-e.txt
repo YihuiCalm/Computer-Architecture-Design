@@ -1,0 +1,54 @@
+Cache type:u
+Trace:cc1.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write back
+Miss rate:0.0405
+
+Cache type:u
+Trace:cc1.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write through
+Miss rate:0.0405
+
+Cache type:u
+Trace:spice.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write back
+Miss rate:0.0237
+
+Cache type:u
+Trace:spice.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write through
+Miss rate:0.0237
+
+Cache type:u
+Trace:tex.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write back
+Miss rate:0.0047
+
+Cache type:u
+Trace:tex.din
+Cache size:16KB
+Block size:64
+Associativity: 1
+Replacement policy:l
+Write policy:write through
+Miss rate:0.0047
+

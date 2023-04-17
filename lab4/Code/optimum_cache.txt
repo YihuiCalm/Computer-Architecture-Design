@@ -1,0 +1,16 @@
+Trace:/home/ead/yihui/Downloads/gem5/lab4/lab4/stringsearch/string_0.din
+Optimal Cache type:u
+Optimal Cache size:4'KB'
+Optimal Block size:256
+Optimal Associativity:16
+Optimal Replacement policy:l
+Optimal Miss rate:0.0407
+
+Trace:/home/ead/yihui/Downloads/gem5/lab4/lab4/stringsearch/string_3.din
+Optimal Cache type:u
+Optimal Cache size:4'KB'
+Optimal Block size:256
+Optimal Associativity:16
+Optimal Replacement policy:l
+Optimal Miss rate:0.0407
+
